@@ -9,5 +9,6 @@ Live projects:
 - [Muay Thai camp map](https://thibautfontaine.space/muay-thai/)
 - [Piano MIDI](https://thibautfontaine.space/piano-midi/)
 - [Scratchboy](https://thibautfontaine.space/scratchboy/)
+- [SoulStream](https://thibautfontaine.space/streaming/)
 
 [Portfolio](https://thibautfontaine.space/)
