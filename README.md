@@ -10,5 +10,6 @@ Live projects:
 - [Piano MIDI](https://thibautfontaine.space/piano-midi/)
 - [Scratchboy](https://thibautfontaine.space/scratchboy/)
 - [SoulStream](https://thibautfontaine.space/streaming/)
+- [Xtrans — offline translator](https://thibautfontaine.space/translater/)
 
 [Portfolio](https://thibautfontaine.space/)
